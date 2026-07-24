@@ -1,0 +1,1 @@
+print("News Forwarder Bot")
